@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941647077746",
+    "project_id": "live-score-b702b",
+    "storage_bucket": "live-score-b702b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941647077746:android:5a6c0bc269b1451c7e3deb",
+        "android_client_info": {
+          "package_name": "com.merrionsoft.live.live_score"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18VIxbu0DGMB0qOufI-V-16_J4d2eSAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
